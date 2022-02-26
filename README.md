@@ -7,6 +7,7 @@ As far as the desicsion that i've made, im not sure as how to expand on them sin
 if i got stuck beyond the documantation sources or forgot the syntax of something i Googled until i found something that provided me with a good guidance or example which i could  somehow apply on my own code, nothing was copied blindly.
 
 Sources i used were - 
+
 https://www.jfrog.com/confluence/display/JFROG/Artifactory+REST+API
 
 https://docs.python-requests.org/en/latest/user/quickstart/
