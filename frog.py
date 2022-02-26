@@ -223,7 +223,7 @@ parser = argparse.ArgumentParser(prog='frog', conflict_handler='resolve',
                                  epilog="""~Imagine There’s No Version.~""")
 parser.add_argument('--help''-h', help="""This is my first help menu ever, I think the action selection menu is pretty self explenatory.
                                         there are probably things that could be expanded like sending more json payload data
-                                        and then giving info on how to do those actionsth
+                                        and then giving info on how to do those actions.
                                         More info regarding Artifactory API can be found at : https://www.jfrog.com/confluence/display/JFROG/Artifactory+REST+API""")
 
 args = parser.parse_args()
