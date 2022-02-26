@@ -8,6 +8,9 @@ if i got stuck beyond the documantation sources or forgot the syntax of somethin
 
 Sources i used were - 
 https://www.jfrog.com/confluence/display/JFROG/Artifactory+REST+API
+
 https://docs.python-requests.org/en/latest/user/quickstart/
+
 https://docs.python.org/dev/library/argparse.html#formatter-class
+
 https://academy.jfrog.com/series/jfrog-artifactory-for-devops-engineers-2020/jfrog-artifactory-automation-tools-2020-1
