@@ -21,7 +21,7 @@ jobs:
           type: jira
           port_client_id: ${{ secrets.PORT_CLIENT_ID }}
           port_client_secret: ${{ secrets.PORT_CLIENT_SECRET }}
-          port_base_url: "https://api.port.io"
+          port_base_url: "https://api.getport.io"
           config: |
             jira_host: "https://emmanuell2000.atlassian.net"
             atlassian_user_email: ${{ secrets.atlassianUserEmail }}
